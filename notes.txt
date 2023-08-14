@@ -1,0 +1,9 @@
+database
+1. create a project of any name 
+2. create a database inside a cluster of any name 
+3. ofter doing first api call it will automatically create a collection of mongose model name like Todo in this case
+
+deployment
+
+step 1. Cors
+ 
